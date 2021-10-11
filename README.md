@@ -19,10 +19,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="intro">Introduction</a>
+      <a href="#intro">Introduction</a>
     </li>
     <li>
-      <a href="method">Methodology</a>
+      <a href="#method">Methodology</a>
       <ul>
         <li><a href="#archi">Architecture</a></li>
         <li><a href="#loss">Loss Functions</a></li>
@@ -30,13 +30,13 @@
       </ul>
     </li>
     <li>
-      <a href="result">Result Analysis</a>
+      <a href="#result">Result Analysis</a>
     </li>
     <li>
-      <a href="data">Dataset</a>
+      <a href="#data">Dataset</a>
     </li>
     <li>
-      <a href="method">Getting Started</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -44,7 +44,7 @@
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="references">References</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
