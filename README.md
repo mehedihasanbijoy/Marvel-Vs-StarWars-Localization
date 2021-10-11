@@ -36,7 +36,7 @@
       <a href="#data">Dataset</a>
     </li>
     <li>
-      <a href="#getting-started">How to Use the Project?</a>
+      <a href="#use">How to Use the Project?</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -51,92 +51,61 @@
 
 
 <!-- Introduction -->
-## Introduction
+<h2 id='intro'> Introduction </h2>
 Write introduction here.
 * Introduction item 1
 
 <!-- Methodology -->
-## Methodology
+<h2 id='method'> Methodology </h2>
 Write methodology here.
 
-### Architecture
-### Loss Functions
-### Evaluation Criterias
+<!-- ### Architecture -->
+<h3 id='archi'> Architecture </h3>
+<!-- ### Loss Functions -->
+<h3 id='loss'> Loss Functions </h3>
+<!-- ### Evaluation Criterias -->
+<h3 id='eval'> Evaluation Criterias </h3>
 
 
 <!-- Result Analysis -->
-## Result Analysis
+<h2 id='result'> Result Analysis </h2>
 Write Result Analysis here.
 
+
 <!-- Dataset -->
-## Dataset
+<h2 id='data'> Dataset </h2>
 Write about dataset here.
 
+
+
 <!-- How to Use the Project? -->
-## How to Use the Project?
+<h2 id='use'> How to Use the Project </h2>
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!-- ### Prerequisites -->
+<h3 id='prerequisites'> Prerequisites </h3>
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+<!-- ### Installation -->
+<h3 id='installation'> Installation </h3>
 
 
 
 <!-- LICENSE -->
-## License
+<h2 id='license'> License </h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+<h2 id='contact'> Contact </h2>
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Mehedi Hasan Bijoy - [@Facebook](https://facebook.com/mhbsheikh) - [@LinkedIn](https://www.linkedin.com/in/mhbsheikh/) <br>
+Project Link: [Marvel VS StarWars Localization](https://github.com/mehedihasanbijoy/Marvel-Vs-StarWars-Localization)
 
 
 
 <!-- References -->
-## References
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+<h2 id='references'> References </h2>
 
 
 
