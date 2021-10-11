@@ -36,7 +36,7 @@
       <a href="#data">Dataset</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">How to Use the Project?</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -72,8 +72,8 @@ Write Result Analysis here.
 ## Dataset
 Write about dataset here.
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- How to Use the Project? -->
+## How to Use the Project?
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
