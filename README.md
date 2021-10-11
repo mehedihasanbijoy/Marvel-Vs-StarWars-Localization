@@ -1,8 +1,8 @@
 <!-- PROJECT TITLE AND SUB-TITLE -->
-<h3 align="center">Marvel-Vs-StarWars-Localization</h3>
-  <p align="center">
+<h1 align="center">Marvel-Vs-StarWars-Localization</h1>
+  <h3 align="center">
     Classification and Localization of a Single Object with Pytorch.
-  </p>
+  </h3>
 
 <!-- PROJECT LOGO -->
 <br/>
